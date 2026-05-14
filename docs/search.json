@@ -19,5 +19,40 @@
     "title": "Cullin Kimura",
     "section": "Education",
     "text": "Education\nCalifornia State University, Monterey Bay | Seaside, CA\nB.S. in Statistics | 2023 - 2027 (expected)"
+  },
+  {
+    "objectID": "Portfolio/portfolio-project.html",
+    "href": "Portfolio/portfolio-project.html",
+    "title": "Porfolio Project",
+    "section": "",
+    "text": "The data was taken from https://flavorsofcacao.com/chocolate_database.html posted to the Tidy Tuesday website in 2022. The data depicts chocolate with various different descriptors such as country of origin of the cocoa beans used in that particular chocolate or the manufacturer as well as information on their location. It also shows the rating on a scale from 1 to 5 given by the Flavors of Cacao Website. Descriptions of the chocolate is also detailed with various adjectives on the texture and flavor profiles of the chocolates."
+  },
+  {
+    "objectID": "Portfolio/portfolio-project.html#data",
+    "href": "Portfolio/portfolio-project.html#data",
+    "title": "Porfolio Project",
+    "section": "",
+    "text": "The data was taken from https://flavorsofcacao.com/chocolate_database.html posted to the Tidy Tuesday website in 2022. The data depicts chocolate with various different descriptors such as country of origin of the cocoa beans used in that particular chocolate or the manufacturer as well as information on their location. It also shows the rating on a scale from 1 to 5 given by the Flavors of Cacao Website. Descriptions of the chocolate is also detailed with various adjectives on the texture and flavor profiles of the chocolates."
+  },
+  {
+    "objectID": "Portfolio/portfolio-project.html#data-cleaning",
+    "href": "Portfolio/portfolio-project.html#data-cleaning",
+    "title": "Porfolio Project",
+    "section": "Data Cleaning",
+    "text": "Data Cleaning\nTo clean the data there wasn’t much to do the dataset came very clean, for our purposes we did not need most of the variables however so only the country of bean origin, cocoa content (%), and the rating that the Flavors of Cacao website gave the chocolates were kept for future use."
+  },
+  {
+    "objectID": "Portfolio/portfolio-project.html#visual-1",
+    "href": "Portfolio/portfolio-project.html#visual-1",
+    "title": "Porfolio Project",
+    "section": "Visual 1",
+    "text": "Visual 1\nIn the first visual we explore the cocoa content of the chocolates from the top 5 producers of of cocoa beans (countries) and the cocoa content of the chocolates made from a blend of various origins. In these histograms the Dominican Republic, Ecuador, Madagascar, Peru, and Venezuela’s count of chocolates are shown by their cocoa content. With most of the countries settling in the middle with a large chunk somewhere between 60% to 80% cocoa content.\n\n\n\n\n\nSix histograms of cocoa content (%) in the chocolate by country of bean origin.\n\n\n\n\n\n(Alt Text Substitute) There are six histograms showing the cocoa content of each group’s chocolate whose beans come from that country. There is a blend group made up of different countries origin beans as well as the Dominican Republic, Ecuador, Madagascar, Peru, and Venezuela. The Dominican Republic, Peru, and Venezuela all have the largest majority in similar shapes crowded between 60% to 80%. Ecuador and Madagascar are also similar but have much less chocolate made from beans that originated from their countries, blend is also by far the smallest category of the six histograms."
+  },
+  {
+    "objectID": "Portfolio/portfolio-project.html#visual-2",
+    "href": "Portfolio/portfolio-project.html#visual-2",
+    "title": "Porfolio Project",
+    "section": "Visual 2",
+    "text": "Visual 2\nIn the second visual we explore cocoa content (%) within each rating bracket separated into 1-2, 2-3, 3-4, 4+ (lower bound is inclusive, upper is exclusive). In these four boxplots we observe a common trend in the 2-3, 3-4, and 4+ boxplots in which they tend to support the conclusion that chocolates within these ranges are mainly around 70% cocoa content. The 1-2 boxplot however runs contrary with a very large range tending to gravitate towards higher amounts of cocoa. While there was far less people who were in this low rating category compared to the other categories it would support the idea that people seem to dislike the amount of cocoa going up after a certain point, perhaps attributable to the bitterness of darker chocolate compared to milk chocolate.\n\n\n\n\n\nFour boxplots comparing the cocoa content between four rating group ranges\n\n\n\n\n\n(Alt Text Substitute) There are four boxplots each one corresponding to a different rating group of the chocolate on a scale of 1-5 originally now split into the 1-2, 2-3, 3-4, 4+ groups with the lower bound being inclusive. The lowest quartile range was the 4+ group with a tight range between 70% and 72.5% with the median settling right near that 70% bound. The 3-4 and 2-3 groups are both also very small with interquartile intervals between 70% and 75% with medians similarly very close to 70% like the 4+ group. This shows that for ratings 2 and up the chocolate tended to be 70% cocoa for the most part. Lastly the 1-2 group had very little observations but it also had a very large quartile interval between 70% and 100% with the median right around 85% indicating that if we were to trust this small sample size that after the cocoa content gets too large people begin to not like it as much. With that said there is a small scattering of outliers in the 2-3 and 3-4 groups as well that hover around the upper range of cocoa content."
   }
 ]
