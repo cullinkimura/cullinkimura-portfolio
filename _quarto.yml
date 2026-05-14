@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Cullin Kimura's ePortfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About Me"
+
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: true
+
+editor: source

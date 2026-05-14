@@ -1,0 +1,19 @@
+---
+title: "Cullin Kimura"
+about:
+  template: jolla
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cullin-kimura-7380093b4/
+    - icon: github
+      text: Github
+      href: https://github.com/cullinkimura
+---
+
+Cullin Kimura is student at California State University, Monterey Bay majoring in statistics.
+
+## Education
+
+California State University, Monterey Bay | Seaside, CA  
+B.S. in Statistics | 2023 - 2027 (expected)
